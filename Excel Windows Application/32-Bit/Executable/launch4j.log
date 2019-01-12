@@ -1,0 +1,14 @@
+
+
+Version:	3.10
+CmdLine:	C:\Users\ANEER ABDULRAHMAN\Desktop\32BIT&64BIT\Executable\ABMExcelApp.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\ANEER ABDULRAHMAN\Desktop\32BIT&64BIT\Executable\.
+Java min ver:	
+Java max ver:	
+Bundled JRE:	bin\jre8
+Check launcher:	C:\Users\ANEER ABDULRAHMAN\Desktop\32BIT&64BIT\Executable\bin\jre8\bin\javaw.exe (OK)
+Launcher:	C:\Users\ANEER ABDULRAHMAN\Desktop\32BIT&64BIT\Executable\bin\jre8\bin\javaw.exe
+Launcher args:	-jar "C:\Users\ANEER ABDULRAHMAN\Desktop\32BIT&64BIT\Executable\ABMExcelApp.exe"
+Args length:	80/32768 chars
+Exit code:	0
